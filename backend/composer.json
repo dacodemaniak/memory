@@ -1,0 +1,14 @@
+{
+    "name": "ideafactory/api",
+    "description": "Simple PHP API to persist hall of fames of Memory game",
+    "type": "project",
+    "license": "ISC",
+    "authors": [
+        {
+            "name": "Jean-Luc",
+            "email": "jean-luc.a@ideafactory.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
